@@ -1,5 +1,4 @@
 streamlit
 yt-dlp
-faster-whisper
+SpeechRecognition
 pydub
-pyaudioop
